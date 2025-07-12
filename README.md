@@ -1,26 +1,13 @@
 <!-- Profile README for afsalkhanmdt -->
 
 <h1 align="center">👋 Hi, I'm Afsal Khan</h1>
-<p align="center">Chief Technology Officer @ Ionaught Technologies • Thiruvananthapuram</p>
+<p align="center">Chief Technology Officer @ Ionaught Technologies </p>
 
 ---
 
 ## 🚀 About Me
 - As CTO and Co‑founder at **Ionaught Technologies Pvt Ltd** in Thiruvananthapuram, I define and steer our long-term **tech strategy**, drive architectural decisions, and lead cross-functional engineering teams.
 - Chief Architect of **Babble‑AI**, a conversational AI/chatbot platform, and host of webinars on Embedded Servers and AI innovation.
-
----
-
-## 🛠️ Key Projects & Initiatives
-
-### Babble‑AI (Platform)
-- Spearheaded the platform: conversational UX, AI model orchestration, secure API backends.
-
-### Ionaught Dev Tools
-- Architected and published:
-  - **react-spa** template (TypeScript, Vite, React Router, Vitest)    
-
----
 
 ## 🧰 Technical Leadership
 - **Technology & Architecture**: Node.js (NestJS/Express), TypeScript, React, Python
